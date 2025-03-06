@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Shete</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Coder developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
 
 - 🌱 I’m currently learning **NEXT.JS**
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[linkedin.com/in/om-shete-13701924b](https://www.linkedin.com/in/om-shete-13701924b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om shete" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/om-shete-13701924b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om shete" height="30" width="40" /></a>
 <a href="https://instagram.com/omshete98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omshete98" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/omshete2511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="omshete_96" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omshete96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omshete96" height="30" width="40" /></a>

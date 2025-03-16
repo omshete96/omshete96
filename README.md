@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **Spring-boot, Full Stack Web Development**
+- 💬 Ask me about **Full Stack Web Development, AI/ML**
 
 - 📫 How to reach me **omshete2511@gmail.com**
 

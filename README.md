@@ -3,7 +3,7 @@
 <h4 align="center">Quite interest to learn technologies related to AI/ML</h4>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
  
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently working on skills related to **Full Stack Development and AI/ML**
 
 - 💬 Ask me about **Full Stack Web Development, AI/ML**
 

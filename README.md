@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Shete</h1>
 <h3 align="center">A Passionate Coder From India</h3>
+<h2>Quite interest to learn technologies related to AI/ML</h2>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
 
 - 🌱 I’m currently learning **NEXT.JS**

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Om Shete</h1>
 <h3 align="center">A Passionate Coder From India</h3>
-<h4 align="center">Quite interest to learn technologies related to AI/ML</h4>
+<h4 align="center">Quite interest to learn technologies related to AI/ML & Data Science</h4>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
  
-- 🌱 I’m currently working on skills related to **Full Stack Development and AI/ML**
+- 🌱 I’m currently working on skills related to **Full Stack Development, AI/ML and Data Science**
 
-- 💬 Ask me about **Full Stack Web Development, AI/ML**
+- 💬 Ask me about **Full Stack Web Development, AI/ML and Data Science**
 
 - 📫 How to reach me **omshete2511@gmail.com**
 
